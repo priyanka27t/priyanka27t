@@ -8,15 +8,17 @@
 
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">A Passionate Developer Focused on Python, React, C, C++, HTML & CSS</h3>
 
+<!-- Insert the coding image -->
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left">
+<!-- Profile view counter -->
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
 </p>
 
-- 🌱 I’m currently working with **Data Science**
+- 🌱 I’m currently working with **Python, React, C, C++, HTML, and CSS**
 
 - 📫 How to reach me: [Your Email]
 
@@ -31,6 +33,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+
+<!-- Image of a coder -->
+<img src="/mnt/data/image.png" alt="coder" align="center" width="500"/>
 
 <h3 align="left">Languages and Tools I Use:</h3>
 
