@@ -34,8 +34,6 @@
   </a>
 </p>
 
-<!-- Image of a coder -->
-<img src="/mnt/data/image.png" alt="coder" align="center" width="500"/>
 
 <h3 align="left">Languages and Tools I Use:</h3>
 
